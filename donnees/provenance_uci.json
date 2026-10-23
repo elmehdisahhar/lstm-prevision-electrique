@@ -1,0 +1,23 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/321/electricityloaddiagrams20112014.zip",
+  "sha256_archive": "f6c4d0e0df12ecdb9ea008dd6eef3518adb52c559d04a9bac2e1b81dcfc8d4e1",
+  "downloaded_at_utc": "2026-10-22T23:44:24.451638+00:00",
+  "licence": "CC BY 4.0",
+  "citation": "Trindade, A. (2015). ElectricityLoadDiagrams20112014. UCI. DOI:10.24432/C58C86",
+  "sha256_subset": "af5b9d9409c3c3aa774eb58d37fd22f99079f43ef8d467556ce8841d6f922735",
+  "columns": [
+    "MT_001",
+    "MT_002",
+    "MT_003",
+    "MT_004",
+    "MT_005",
+    "MT_006",
+    "MT_007",
+    "MT_008",
+    "MT_009",
+    "MT_010"
+  ],
+  "rows": 140256,
+  "date_min": "2011-01-01 00:15:00",
+  "date_max": "2015-01-01 00:00:00"
+}

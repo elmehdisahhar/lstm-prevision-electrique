@@ -1,0 +1,9 @@
+{
+  "notebook": "LSTM_prevision_electrique_24h.ipynb",
+  "cellules_code_executees": 10,
+  "erreurs": 0,
+  "figures": 4,
+  "empreinte_UCI_verifiee": true,
+  "MAE_RMSE_recalculees": true,
+  "verification_utc": "2026-10-23T00:03:17.082256+00:00"
+}

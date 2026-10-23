@@ -1,0 +1,35 @@
+{
+  "client": "MT_001",
+  "normalisation": {
+    "mean": 5.496734082734643,
+    "std": 5.914387470894987
+  },
+  "seeds": [
+    17,
+    42,
+    73
+  ],
+  "config": {
+    "hidden": 32,
+    "epochs": 80,
+    "patience": 12,
+    "batch_size": 32,
+    "learning_rate": 0.003,
+    "weight_decay": 0.0001
+  },
+  "best_ridge_alpha": 100.0,
+  "selected_seed": 17,
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7",
+    "torch": "2.7.1+cpu"
+  },
+  "source_sha256": "af5b9d9409c3c3aa774eb58d37fd22f99079f43ef8d467556ce8841d6f922735",
+  "peak_threshold_kW": 18.401015228426402,
+  "train": "2012",
+  "validation": "2013",
+  "test": "2014",
+  "executed_at_utc": "2026-10-22T23:54:52.773246+00:00"
+}
